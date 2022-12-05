@@ -1,4 +1,4 @@
-# whatsapp-2-spreadsheet
+# whatsapp_bot
 
 # code soon....
 
