@@ -72,21 +72,6 @@ Here's why:
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-
-### Built With
-
-This section should list any major frameworks/libraries used in my project.
-
-* [Node.js](https://nodejs.org/)
-* [Express.js](https://github.com/expressjs/express)
-* [Fontawesome](https://fontawesome.com/)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
