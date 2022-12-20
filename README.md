@@ -61,8 +61,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/anupammaurya6767/wap_group_management_bot/blob/main/Images/screenshot.png)
-
 A web-app that monitors the air and gives you various information regarding your environment. It gives you AQI and a brief Weather Report alongwith the forecast result of AQI and Weather. Gives you a brief report and suggestion to increase the quality of the air.
 
 Here's why:
