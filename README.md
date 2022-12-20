@@ -67,6 +67,13 @@ Here's why:
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
+### Bot Commands
+
+This section should list all the commands and their usage of the bot.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
 <!-- GETTING STARTED -->
 ## Getting Started
 
