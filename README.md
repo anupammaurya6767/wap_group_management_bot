@@ -21,7 +21,7 @@
   <h3 align="center">Whatsapp Group Management Bot</h3>
 
   <p align="center">
-     Air Monitor Web-App
+     Manage your Group
     <br />
     ·
     <a href="https://github.com/anupammaurya6767/wap_group_management_bot/issues">Report Bug</a>
