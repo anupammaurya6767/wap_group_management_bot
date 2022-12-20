@@ -18,10 +18,10 @@
     <img src="https://github.com/anupammaurya6767/wap_group_management_bot/blob/main/img/logo.png" alt="Logo" width="120" height="120">
   </a>
 
-  <h3 align="center">Whatsapp Group Management Bot</h3>
+  <h3 align="center">Whatsapp Management Bot</h3>
 
   <p align="center">
-     Manage your Group
+     Manage your needs from Whatsapp
     <br />
     ·
     <a href="https://github.com/anupammaurya6767/wap_group_management_bot/issues">Report Bug</a>
