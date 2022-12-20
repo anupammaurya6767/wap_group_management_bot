@@ -15,7 +15,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/anupammaurya6767/wap_group_management_bot">
-    <img src="https://github.com/anupammaurya6767/wap_group_management_bot/blob/main/img/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/anupammaurya6767/wap_group_management_bot/blob/main/img/logo.png" alt="Logo" width="120" height="120">
   </a>
 
   <h3 align="center">Whatsapp Group Management Bot</h3>
