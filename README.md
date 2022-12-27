@@ -55,7 +55,20 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+This bot is designed to help you manage your WhatsApp group more efficiently and effectively. With this bot, you can:
 
+-> Prevent promotion: If you don't want people to promote their products or services in your group, you can use this bot to automatically block any messages that contain promotional content.
+
+-> Anime modules: This bot comes with various modules related to anime, including a module that can provide information about different anime series and a module that can generate anime-themed memes and GIFs.
+
+-> Admin features: As an admin, you have access to a range of special features that can help you manage the group more effectively. These features include the ability to mute or ban users, set rules for the group, and send reminders to group members.
+
+-> AI-based query solver: This bot comes with an AI-based query solver that can help you find answers to questions you have about various topics. Simply send the bot a message with your question, and it will do its best to find a helpful answer.
+
+-> Chat bot: In addition to its group management features, this bot also comes with a chat bot that you can use to have conversations with. Simply send the bot a message and it will respond with a relevant comment or question.
+
+
+We hope you find this bot helpful in managing your WhatsApp group and enhancing your group experience!
 
 
 Here's why:
