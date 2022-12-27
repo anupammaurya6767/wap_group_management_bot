@@ -56,12 +56,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-A web-app that monitors the air and gives you various information regarding your environment. It gives you AQI and a brief Weather Report alongwith the forecast result of AQI and Weather. Gives you a brief report and suggestion to increase the quality of the air.
+
 
 Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* A project that solves air related problems
-* For a better living :smile:
+
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
