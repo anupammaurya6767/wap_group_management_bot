@@ -99,12 +99,6 @@ To get a local copy up and running follow these simple example steps.
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add Day-Night Feature
-- [ ] Add New methods of prevention
-- [ ] Make a Android App
-- [ ] Multi-language Support
-    - [ ] Hindi
-    - [ ] Japanese
 
 See the [open issues](https://github.com/anupammaurya6767/wap_group_management_bot/issues) for a full list of proposed features (and known issues).
 
